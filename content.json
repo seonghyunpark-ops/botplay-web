@@ -1,0 +1,937 @@
+{
+ "theme": {
+  "accent": "#7c5cff",
+  "accent2": "#22d3ee",
+  "background": "#0b0b10",
+  "houseAdAfter": 3,
+  "houseAdTitle": "AI 영상을 만들었나요?",
+  "houseAdText": "BotPlay에 무료로 소개해 드려요. 오리지널 수익 배분 제휴도 받습니다 ›"
+ },
+ "version": 6,
+ "updatedAt": "2026-10-04T00:00:04.461Z",
+ "featured": [
+  "yt-5C5lcn1GYfM",
+  "yt-iE39q-IKOzA",
+  "yt-54MIOgpKl5A",
+  "yt-d-8DT5Q8kzI",
+  "yt-JCikaK9YVEI"
+ ],
+ "shelves": [
+  {
+   "id": "top10",
+   "title": "요즘 뜨는 AI 영상 TOP 10",
+   "type": "ranking",
+   "limit": 10
+  },
+  {
+   "id": "new",
+   "title": "새로 올라온 AI 영상",
+   "type": "new",
+   "limit": 20
+  },
+  {
+   "id": "originals",
+   "title": "BotPlay 오리지널",
+   "type": "originals"
+  },
+  {
+   "id": "korea",
+   "title": "한국 AI 영상",
+   "type": "ids",
+   "ids": [
+    "yt-ONIgeNmXkpQ",
+    "yt-QZCK0ow8xic",
+    "yt-5C5lcn1GYfM"
+   ]
+  },
+  {
+   "id": "short-film",
+   "title": "AI 단편영화",
+   "type": "category",
+   "value": "short-film"
+  },
+  {
+   "id": "sora",
+   "title": "Sora로 만든 영상",
+   "type": "tool",
+   "value": "Sora"
+  },
+  {
+   "id": "veo",
+   "title": "Veo로 만든 영상",
+   "type": "tool",
+   "value": "Veo"
+  },
+  {
+   "id": "trailer",
+   "title": "예고편·티저",
+   "type": "category",
+   "value": "trailer"
+  },
+  {
+   "id": "music-video",
+   "title": "AI 뮤직비디오",
+   "type": "category",
+   "value": "music-video"
+  },
+  {
+   "id": "commercial",
+   "title": "AI 광고·CF",
+   "type": "category",
+   "value": "commercial"
+  },
+  {
+   "id": "animation",
+   "title": "AI 애니메이션",
+   "type": "category",
+   "value": "animation"
+  },
+  {
+   "id": "runway",
+   "title": "Runway로 만든 영상",
+   "type": "tool",
+   "value": "Runway"
+  },
+  {
+   "id": "kling",
+   "title": "Kling으로 만든 영상",
+   "type": "tool",
+   "value": "Kling"
+  },
+  {
+   "id": "comedy",
+   "title": "웃긴 AI 영상",
+   "type": "category",
+   "value": "comedy"
+  },
+  {
+   "id": "experimental",
+   "title": "실험·아트",
+   "type": "category",
+   "value": "experimental"
+  },
+  {
+   "id": "documentary",
+   "title": "메이킹·다큐",
+   "type": "category",
+   "value": "documentary"
+  },
+  {
+   "id": "legend",
+   "title": "AI 영상의 시작, 전설의 밈",
+   "type": "ids",
+   "ids": [
+    "yt-iE39q-IKOzA",
+    "yt-M6KXPEVwPdI",
+    "yt-d-8DT5Q8kzI",
+    "yt--qdx6VBJHBU",
+    "yt-9oryIMNVtto"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "yt-ptR3ef33WoQ",
+   "youtubeId": "ptR3ef33WoQ",
+   "title": "NAGIN - SEASON 1| Full Fantasy Film | aethshiv",
+   "creator": "Aethshiv",
+   "tools": [],
+   "category": "short-film",
+   "genres": [
+    "fantasy",
+    "thriller",
+    "action",
+    "adventure",
+    "mystery"
+   ],
+   "tags": [
+    "nagin",
+    "nagin season 1",
+    "naagin",
+    "naagin season 1",
+    "nagin movie"
+   ],
+   "year": 2026,
+   "durationSec": 2294,
+   "description": "뱀 신화 속 나가로크의 세계를 배경으로 사랑과 배신, 운명을 그린 신화 판타지 이야기입니다. 캐릭터 디자인과 영화적인 화면 연출에 공을 들여 AI 영상 제작으로 완성했습니다.",
+   "views": 1819910,
+   "addedAt": "2026-10-04T00:00:04.461Z",
+   "verifiedAt": "2026-10-04T00:00:04.461Z",
+   "titleKo": "나긴 시즌 1"
+  },
+  {
+   "id": "yt-ChvIrwPBdS8",
+   "youtubeId": "ChvIrwPBdS8",
+   "title": "ARK-7 | Episode 2 — 4K AI Sci-Fi Series",
+   "creator": "Karloff AI",
+   "tools": [
+    "Seedance",
+    "ElevenLabs"
+   ],
+   "category": "short-film",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [],
+   "year": 2026,
+   "durationSec": 870,
+   "description": "추락한 우주선 ARK-7에서 간신히 살아남은 에바는 낯선 행성에 홀로 떨어집니다. 함선과의 연락은 끊겼고, 곁에는 AI 동료 MIRA뿐입니다. 4K로 이어지는 AI SF 시리즈의 두 번째 이야기입니다.",
+   "views": 762898,
+   "addedAt": "2026-10-04T00:00:04.461Z",
+   "verifiedAt": "2026-10-04T00:00:04.461Z",
+   "titleKo": "ARK-7 2화"
+  },
+  {
+   "id": "yt-DGkAdRGkBjk",
+   "youtubeId": "DGkAdRGkBjk",
+   "title": "@tul8te  - Men Gheir Kalam I تووليت - من غير كلام  [Official Music Video] (2026)",
+   "creator": "Mohammed Soufi",
+   "tools": [],
+   "category": "music-video",
+   "genres": [
+    "music"
+   ],
+   "tags": [
+    "موسيقى",
+    "توليت",
+    "TUL8TE",
+    "توو ليت",
+    "اغاني"
+   ],
+   "year": 2026,
+   "durationSec": 65,
+   "description": "말보다 눈빛이 더 많은 것을 전한다는 생각에서 출발한 뮤직비디오입니다. 곡 '말 없이'를 시네마틱한 영상으로 풀어냈습니다. 감독이 AI로 직접 연출하고 제작했습니다.",
+   "views": 624216,
+   "addedAt": "2026-10-03T00:00:05.591Z",
+   "verifiedAt": "2026-10-04T00:00:04.461Z",
+   "titleKo": "TUL8TE - 말 없이 (Men Gheir Kalam)"
+  },
+  {
+   "id": "yt-KpfZRCyFbBc",
+   "youtubeId": "KpfZRCyFbBc",
+   "title": "10년을 격리당한 개체 [SCP, 뱀의 손]",
+   "creator": "괴물연구소",
+   "tools": [],
+   "category": "short-film",
+   "genres": [
+    "fantasy",
+    "thriller"
+   ],
+   "tags": [
+    "SCP",
+    "scp",
+    "scp 영화",
+    "미스터리",
+    "넷플릭스"
+   ],
+   "year": 2026,
+   "durationSec": 2682,
+   "description": "SCP 재단 위키의 인기 개체 '뱀의 손'을 AI 기술로 영화처럼 각색한 시네마틱 단편입니다. 10년간 격리되어 온 미지의 존재를 둘러싼 긴장감 넘치는 이야기를 그립니다. 미스터리와 공포 요소가 결합된 연출이 돋보입니다.",
+   "views": 1383632,
+   "addedAt": "2026-10-02T00:00:05.033Z",
+   "titleKo": "뱀의 손 - 10년을 격리당한 개체",
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-xqA4UFxqFPU",
+   "youtubeId": "xqA4UFxqFPU",
+   "title": "A Dragon Egg Chose Him as Father | DRAGON FATHER | Full Fantasy Movie 4K",
+   "creator": "H3 Ai Films",
+   "tools": [],
+   "category": "short-film",
+   "genres": [
+    "fantasy"
+   ],
+   "tags": [
+    "dragon father",
+    "dragon fantasy movie",
+    "dragon short film",
+    "fantasy short film",
+    "hunter and dragon"
+   ],
+   "year": 2026,
+   "durationSec": 580,
+   "description": "치열한 전투 끝에 발견한 용의 알에서 태어난 새끼 용이 사냥꾼을 아빠로 선택하면서 벌어지는 이야기를 그린 AI 판타지 단편입니다. 예상치 못한 유대가 신뢰와 가족, 배신이 얽힌 서사로 이어집니다. 웅장한 비주얼이 돋보이는 작품입니다.",
+   "views": 1167638,
+   "addedAt": "2026-10-02T00:00:05.033Z",
+   "titleKo": "드래곤 파더",
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-Mj_0bHOobMk",
+   "youtubeId": "Mj_0bHOobMk",
+   "title": "넉 달 만에 12만 명이 찜한 네이버웹툰 《제물 투표》, AI로 실사 영화를 만들었습니다",
+   "creator": "페이지 픽쳐스",
+   "tools": [],
+   "category": "short-film",
+   "genres": [
+    "drama",
+    "thriller",
+    "horror"
+   ],
+   "tags": [
+    "제물 투표",
+    "제물투표",
+    "제물투표 웹툰",
+    "네이버웹툰",
+    "네이버 웹툰"
+   ],
+   "year": 2026,
+   "durationSec": 998,
+   "description": "넉 달 만에 12만 명이 찜한 네이버웹툰 '제물 투표'의 초반 이야기를 AI로 실사 영화처럼 재구성한 작품입니다. 웹툰 원작의 세계관을 실사 영상미로 옮긴 시도가 돋보입니다. 이후 이야기는 원작 웹툰에서 이어집니다.",
+   "views": 1118262,
+   "addedAt": "2026-10-02T00:00:05.033Z",
+   "titleKo": "제물 투표",
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-S2v7XTlYtKI",
+   "youtubeId": "S2v7XTlYtKI",
+   "title": "연상호 감독의 #실낙원 유니버스 영상 ep2",
+   "creator": "CJ ENM Movie",
+   "tools": [],
+   "category": "trailer",
+   "genres": [],
+   "tags": [
+    "CJ엔터테인먼트",
+    "CJ Entertainment",
+    "영화예고",
+    "예고편",
+    "trailer"
+   ],
+   "year": 2026,
+   "durationSec": 292,
+   "description": "연상호 감독이 선보이는 '실낙원 유니버스'의 두 번째 영상으로, 다시 나타난 아빠를 둘러싼 희망과 절망이 교차하는 짧은 이야기를 담았습니다. 어둡고 긴장감 있는 분위기가 특징인 CJ ENM의 유니버스 프로젝트입니다.",
+   "views": 433248,
+   "addedAt": "2026-10-02T00:00:05.033Z",
+   "titleKo": "실낙원 유니버스 ep2",
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-J_G18bb0Izs",
+   "youtubeId": "J_G18bb0Izs",
+   "title": "The River Mother | A Dark Fantasy Short Film",
+   "creator": "Thousand Words FilmS",
+   "tools": [],
+   "category": "short-film",
+   "tags": [
+    "ai film",
+    "ai short film",
+    "cinematic",
+    "dark fantasy",
+    "dragon"
+   ],
+   "year": 2026,
+   "durationSec": 1609,
+   "description": "폭풍우 치는 밤, 외로운 뱃사공 여인이 강에서 낯선 알을 건져 올립니다. 알에서 깨어난 존재는 마을을 먹여 살리기도, 장로들을 두렵게 하기도 하며 골짜기 전체의 운명을 쥐게 됩니다. 갈대 늪지대를 배경으로 한 어두운 판타지 단편입니다.",
+   "views": 1445444,
+   "addedAt": "2026-10-01T08:08:05.301Z",
+   "titleKo": "강의 어머니",
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-1LzkIZgxoS4",
+   "youtubeId": "1LzkIZgxoS4",
+   "title": "LUMINA(루미나) ‘OVERRIDE’ Official MV",
+   "creator": "삼성증권",
+   "tools": [
+    "Luma"
+   ],
+   "category": "music-video",
+   "tags": [],
+   "year": 2026,
+   "durationSec": 126,
+   "description": "삼성증권이 선보인 LUMINA의 첫 싱글 앨범 'OVERRIDE'의 공식 뮤직비디오입니다. Luma 등 AI 툴이 쓰인 영상으로 확인됩니다.",
+   "views": 1269823,
+   "addedAt": "2026-10-01T08:08:05.301Z",
+   "titleKo": "LUMINA(루미나) 'OVERRIDE' 공식 뮤직비디오",
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-rZe7TLrDgNA",
+   "youtubeId": "rZe7TLrDgNA",
+   "title": "The Last Dragon Queen | Full Fantasy Movie - AI Short Film by ReelixBox",
+   "creator": "ReelixBox",
+   "tools": [],
+   "category": "short-film",
+   "tags": [
+    "The Last Dragon Queen",
+    "Reelix Box",
+    "Fantasy Movie",
+    "Full Fantasy Movie",
+    "Medieval Fantasy"
+   ],
+   "year": 2026,
+   "durationSec": 1806,
+   "description": "전쟁으로 무너진 왕국에서 리라는 마지막 용 애시와 깊은 유대를 맺습니다. 두려움과 권력, 배신이 두 존재를 위협하는 가운데, 고대의 거인이 깨어나며 운명이 바뀝니다. 리라는 통제가 아닌 자유를 선택해야 합니다.",
+   "views": 1072556,
+   "addedAt": "2026-10-01T08:08:05.301Z",
+   "titleKo": "마지막 용의 여왕",
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-buKJQBExUy8",
+   "youtubeId": "buKJQBExUy8",
+   "title": "Prompt Theory (Made with Veo 3) - AI-generated characters refuse to believe they were AI-generated",
+   "titleKo": "프롬프트 이론",
+   "creator": "Hashem Al-Ghaili (uploader unverified)",
+   "tools": [
+    "Veo"
+   ],
+   "category": "comedy",
+   "tags": [
+    "Veo 3"
+   ],
+   "year": 2025,
+   "description": "'자신이 AI로 생성됐다는 사실을 믿지 않는 AI 캐릭터들'이라는 발상의 가짜 인터뷰 영상. 하셈 알갈리가 Veo 3로 대사와 음성까지 생성해 공개 직후 전 세계적으로 바이럴됐다.",
+   "addedAt": "2026-09-29T23:00:00.000Z",
+   "views": 130614,
+   "durationSec": 90,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-Z0P6qjMUl34",
+   "youtubeId": "Z0P6qjMUl34",
+   "title": "The Herd | Gen-4 | Runway",
+   "titleKo": "더 허드",
+   "creator": "Runway",
+   "tools": [
+    "Runway"
+   ],
+   "category": "short-film",
+   "tags": [
+    "Runway Gen-4"
+   ],
+   "year": 2025,
+   "description": "안개 낀 들판의 소떼 사이로 쫓기는 남자를 그린 긴장감 있는 단편. Runway가 Gen-4 출시와 함께 공개한 공식 쇼케이스로, 캐릭터와 장면 일관성을 강조한다.",
+   "addedAt": "2026-09-29T22:00:00.000Z",
+   "views": 58556,
+   "durationSec": 109,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-5C5lcn1GYfM",
+   "youtubeId": "5C5lcn1GYfM",
+   "title": "JEON SOMI(전소미) - ‘CLOSER’ M/V",
+   "titleKo": "전소미 - 'CLOSER' 뮤직비디오",
+   "creator": "JEON SOMI / THEBLACKLABEL",
+   "tools": [
+    "생성형 AI"
+   ],
+   "category": "music-video",
+   "tags": [
+    "Generative AI (mixed)"
+   ],
+   "year": 2025,
+   "description": "전소미의 'CLOSER' 공식 뮤직비디오로, 제작에 생성형 AI 영상을 적극 활용해 화제가 됐다. K팝 아티스트가 AI를 뮤직비디오 연출에 쓴 대표 사례로, 본인이 인터뷰에서 AI를 사용한 이유를 밝히기도 했다.",
+   "addedAt": "2026-09-29T17:00:00.000Z",
+   "views": 23574254,
+   "durationSec": 167,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-QZCK0ow8xic",
+   "youtubeId": "QZCK0ow8xic",
+   "title": "이승과 저승 사이 중간계에 변요한이 갇혔다!? 《중간계》 티저 예고편 #CGV 최초 공개!",
+   "titleKo": "중간계 티저 예고편",
+   "creator": "CGV / dir. 강윤성·권한슬",
+   "tools": [
+    "생성형 AI"
+   ],
+   "category": "trailer",
+   "tags": [
+    "Generative AI (mixed)"
+   ],
+   "year": 2025,
+   "description": "'범죄도시' 강윤성 감독과 AI 영화감독 권한슬이 함께한, 생성형 AI를 본격 활용한 국내 첫 상업 장편 영화 '중간계'의 티저. 변요한·김강우 등이 출연하며 이승과 저승 사이 세계를 AI VFX로 구현했다.",
+   "addedAt": "2026-09-29T15:00:00.000Z",
+   "views": 256226,
+   "durationSec": 31,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-gzneGhpXwjU",
+   "youtubeId": "gzneGhpXwjU",
+   "title": "Introducing Sora 2",
+   "titleKo": "Sora 2 공개",
+   "creator": "OpenAI",
+   "tools": [
+    "Sora"
+   ],
+   "category": "trailer",
+   "tags": [
+    "Sora 2"
+   ],
+   "year": 2025,
+   "description": "동기화된 대사와 효과음을 함께 생성하는 OpenAI Sora 2의 공식 소개 영상. 물리 표현과 사운드 생성이 크게 향상된 차세대 비디오 모델의 쇼케이스다.",
+   "addedAt": "2026-09-29T13:00:00.000Z",
+   "views": 550493,
+   "durationSec": 1239,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-WLDARkKs-T4",
+   "youtubeId": "WLDARkKs-T4",
+   "title": "The Making of ANCESTRA | Darren Aronofsky x Google DeepMind",
+   "titleKo": "앤세스트라 메이킹 필름",
+   "creator": "Google DeepMind / Primordial Soup",
+   "tools": [
+    "Veo",
+    "Gemini",
+    "Imagen"
+   ],
+   "category": "documentary",
+   "year": 2025,
+   "description": "'ANCESTRA' 제작 과정을 보여주는 메이킹 다큐멘터리. 실사 배우 촬영과 Veo 생성 장면을 어떻게 합성했는지, 할리우드 제작진이 AI를 어떻게 도구로 썼는지 엿볼 수 있다.",
+   "addedAt": "2026-09-29T09:00:00.000Z",
+   "views": 217739,
+   "durationSec": 513,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-pD4q9zwWvRg",
+   "youtubeId": "pD4q9zwWvRg",
+   "title": "THE CLEANER | Flow By Google | Veo 3 | Gen AI Short Film",
+   "titleKo": "더 클리너",
+   "creator": "Unverified creator",
+   "tools": [
+    "Veo",
+    "Flow"
+   ],
+   "category": "short-film",
+   "tags": [
+    "Veo 3"
+   ],
+   "year": 2025,
+   "description": "구글 Flow와 Veo 3로 제작된 액션 느와르 스타일 단편. 대사와 사운드까지 생성하는 Veo 3의 특징을 활용한 인디 AI 단편이다.",
+   "addedAt": "2026-09-29T09:00:00.000Z",
+   "views": 232176,
+   "durationSec": 194,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-QUCIA6HALcg",
+   "youtubeId": "QUCIA6HALcg",
+   "title": "ANCESTRA Trailer",
+   "titleKo": "앤세스트라 예고편",
+   "creator": "Primordial Soup (Darren Aronofsky) / dir. Eliza McNitt",
+   "tools": [
+    "Veo"
+   ],
+   "category": "trailer",
+   "year": 2025,
+   "description": "감독 엘리자 맥닛이 자신의 출생 이야기를 바탕으로 만든 단편 'ANCESTRA'의 예고편. 대런 아로노프스키의 스튜디오 Primordial Soup와 구글 딥마인드가 협업해 실사 촬영과 Veo 생성 영상을 결합했고 트라이베카 영화제에서 공개됐다.",
+   "addedAt": "2026-09-29T08:00:00.000Z",
+   "views": 31424,
+   "durationSec": 41,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-zpAeygE4d1A",
+   "youtubeId": "zpAeygE4d1A",
+   "title": "Total Pixel Space",
+   "titleKo": "토탈 픽셀 스페이스",
+   "creator": "Jacob Adler",
+   "tools": [
+    "Runway",
+    "생성형 AI"
+   ],
+   "category": "experimental",
+   "tags": [
+    "Generative AI (mixed)"
+   ],
+   "year": 2025,
+   "durationSec": 568,
+   "description": "가능한 모든 이미지의 공간이라는 개념을 탐구하는 비디오 에세이. 런웨이 AI 영화제(AIFF) 2025 그랑프리 수상작으로, 서사보다 사유가 돋보이는 실험적 AI 영화다.",
+   "addedAt": "2026-09-29T07:00:00.000Z",
+   "views": 97602,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt--QMftwmyW-A",
+   "youtubeId": "-QMftwmyW-A",
+   "title": "Disney approved our insane AI Kalshi ad to run during the NBA Finals",
+   "titleKo": "NBA 파이널에 방영된 칼시(Kalshi) AI 광고",
+   "creator": "PJ Accetturo (uploader unverified)",
+   "tools": [
+    "Veo"
+   ],
+   "category": "commercial",
+   "tags": [
+    "Veo 3"
+   ],
+   "year": 2025,
+   "durationSec": 31,
+   "description": "NBA 파이널 중계 중 실제 TV로 방영된 예측시장 앱 칼시의 광고로, 기괴하고 유쾌한 인물들이 줄줄이 등장한다. 구글 Veo 3로 약 2,000달러, 이틀 만에 제작되어 광고 제작 방식의 변화를 상징하는 사례가 됐다.",
+   "addedAt": "2026-09-29T05:00:00.000Z",
+   "views": 351906,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-YGyvLlPad8Q",
+   "youtubeId": "YGyvLlPad8Q",
+   "title": "Unanswered Oddities - Episode 1: Humans",
+   "titleKo": "풀리지 않은 기이함 - 1화: 인간",
+   "creator": "Unanswered Oddities (creator unverified)",
+   "tools": [
+    "Veo"
+   ],
+   "category": "comedy",
+   "tags": [
+    "Veo 3"
+   ],
+   "year": 2025,
+   "description": "먼 미래의 존재들이 멸종한 '인간'을 다큐멘터리 형식으로 탐구하는 풍자 시리즈 1화. Veo 3로 만든 AI 코미디 시리즈로 소개되며 화제가 됐다.",
+   "addedAt": "2026-09-29T05:00:00.000Z",
+   "embeddable": false,
+   "views": 792674,
+   "durationSec": 141,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-JCikaK9YVEI",
+   "youtubeId": "JCikaK9YVEI",
+   "title": "🎬 Introducing \"Loading\", the world's first AI-generated anthology series, Kling AI & Outliers Media!",
+   "titleKo": "로딩(Loading...) — AI 앤솔로지 시리즈 소개",
+   "creator": "Kling AI",
+   "tools": [
+    "Kling"
+   ],
+   "category": "trailer",
+   "year": 2025,
+   "description": "Kling AI와 Outliers Media가 선보인 세계 최초의 AI 생성 앤솔로지 시리즈 'Loading...'의 소개 영상. 여러 크리에이터의 단편을 묶은 시리즈로 AI 드라마 포맷의 가능성을 보여준다.",
+   "addedAt": "2026-09-29T02:00:00.000Z",
+   "views": 2477162,
+   "durationSec": 97,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-eCk5VFKKz08",
+   "youtubeId": "eCk5VFKKz08",
+   "title": "“Dear Upstairs Neighbors” (Trailer)",
+   "titleKo": "친애하는 윗집 이웃에게 (예고편)",
+   "creator": "Google DeepMind",
+   "tools": [
+    "Veo"
+   ],
+   "category": "animation",
+   "year": 2026,
+   "description": "층간소음에 시달리는 주인공의 이야기를 그린 구글 딥마인드의 AI 애니메이션 단편 예고편. 2026년 선댄스에서 공개되었으며 아티스트의 스타일을 그대로 살리는 워크플로를 강조했다.",
+   "addedAt": "2026-09-29T01:00:00.000Z",
+   "views": 50444,
+   "durationSec": 38,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-d-8DT5Q8kzI",
+   "youtubeId": "d-8DT5Q8kzI",
+   "title": "Star Wars by Wes Anderson Trailer | The Galactic Menagerie",
+   "titleKo": "웨스 앤더슨의 스타워즈 예고편",
+   "creator": "Curious Refuge",
+   "tools": [
+    "Midjourney",
+    "D-ID",
+    "ElevenLabs"
+   ],
+   "category": "trailer",
+   "year": 2023,
+   "description": "웨스 앤더슨 감독 스타일로 스타워즈를 재해석한 가상 예고편. AI 영화 교육 플랫폼 Curious Refuge가 만들어 '감독 스타일 AI 예고편' 유행을 일으켰다.",
+   "addedAt": "2026-09-28T21:00:00.000Z",
+   "views": 3287501,
+   "durationSec": 62,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-M6KXPEVwPdI",
+   "youtubeId": "M6KXPEVwPdI",
+   "title": "Pepperoni Hug Spot - The AI-generated Pizza Commercial",
+   "titleKo": "페퍼로니 허그 스팟 - AI 피자 광고",
+   "creator": "Pizza Later (uploader unverified)",
+   "tools": [
+    "Runway",
+    "Midjourney",
+    "ElevenLabs",
+    "ChatGPT"
+   ],
+   "category": "comedy",
+   "tags": [
+    "Runway Gen-2"
+   ],
+   "year": 2023,
+   "durationSec": 33,
+   "description": "가상의 피자 가게를 홍보하는 기괴하고 웃긴 가짜 광고. 초기 Runway Gen-2 특유의 뒤틀린 얼굴과 동작이 '저주받은 AI 광고'로 밈이 되며 전 세계적으로 퍼졌다.",
+   "addedAt": "2026-09-28T20:00:00.000Z",
+   "views": 3035,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-iE39q-IKOzA",
+   "youtubeId": "iE39q-IKOzA",
+   "title": "Harry Potter by Balenciaga",
+   "titleKo": "해리 포터 by 발렌시아가",
+   "creator": "demonflyingfox",
+   "tools": [
+    "Midjourney",
+    "ElevenLabs",
+    "D-ID"
+   ],
+   "category": "experimental",
+   "year": 2023,
+   "durationSec": 55,
+   "description": "해리 포터 캐릭터들이 발렌시아가 패션쇼 모델로 등장하는 패러디 영상. 2023년 바이럴되며 'AI 밈 영상' 장르를 연 상징적 작품이다.",
+   "addedAt": "2026-09-28T19:00:00.000Z",
+   "views": 14799894,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-ONIgeNmXkpQ",
+   "youtubeId": "ONIgeNmXkpQ",
+   "title": "국내 최초 AI 영화 개봉★ 상상이 현실이 되는 《엠호텔》 메인 예고편 #CGV 최초 공개!",
+   "titleKo": "엠호텔 (M호텔) 메인 예고편",
+   "creator": "CJ ENM / CGV",
+   "tools": [
+    "생성형 AI"
+   ],
+   "category": "trailer",
+   "tags": [
+    "Generative AI (mixed)"
+   ],
+   "year": 2024,
+   "description": "CJ ENM이 생성형 AI로 제작한 단편 영화 'M호텔'의 극장 개봉 예고편. 4명이 한 달 만에 만든 작품으로 국내외 AI 영화제에서 수상했고, 국내 최초로 극장 개봉한 AI 영화로 소개됐다.",
+   "addedAt": "2026-09-28T14:00:00.000Z",
+   "views": 8964,
+   "durationSec": 30,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-Eqn5I3xEmio",
+   "youtubeId": "Eqn5I3xEmio",
+   "title": "Sora First Impressions: Paul Trillo, Director",
+   "titleKo": "Sora 첫인상: 폴 트릴로 감독",
+   "creator": "OpenAI",
+   "tools": [
+    "Sora"
+   ],
+   "category": "documentary",
+   "year": 2024,
+   "description": "실험 영화감독 폴 트릴로가 Sora를 처음 사용해 본 소감과 결과물을 소개하는 OpenAI 공식 영상. 감독이 AI 도구를 창작에 어떻게 받아들이는지 보여준다.",
+   "addedAt": "2026-09-28T12:00:00.000Z",
+   "views": 1979,
+   "durationSec": 87,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-cYIOP88uEcA",
+   "youtubeId": "cYIOP88uEcA",
+   "title": "Underwater Sora Exploration · Made by Josephine Miller with Sora",
+   "titleKo": "수중 세계 탐험 (Sora)",
+   "creator": "Josephine Miller",
+   "tools": [
+    "Sora"
+   ],
+   "category": "experimental",
+   "year": 2024,
+   "description": "런던의 크리에이티브 디렉터 조세핀 밀러가 Sora로 만든 몽환적인 수중 판타지 영상. 패션과 바다 이미지를 결합해 Sora의 시각적 표현력을 보여준다.",
+   "addedAt": "2026-09-28T11:00:00.000Z",
+   "views": 46437,
+   "durationSec": 15,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-CakzBDEfldw",
+   "youtubeId": "CakzBDEfldw",
+   "title": "Vallée Duhamel & Sora",
+   "titleKo": "발레 뒤아멜 × 소라",
+   "creator": "Vallée Duhamel",
+   "tools": [
+    "Sora"
+   ],
+   "category": "experimental",
+   "year": 2024,
+   "description": "몬트리올 기반 크리에이티브 듀오 발레 뒤아멜이 Sora 초기 접근권으로 만든 초현실적 영상 실험. OpenAI가 공개한 첫 아티스트 쇼케이스 중 하나다.",
+   "addedAt": "2026-09-28T10:00:00.000Z",
+   "views": 9918,
+   "durationSec": 170,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-GeJmAlz7QXE",
+   "youtubeId": "GeJmAlz7QXE",
+   "title": "The Greenhouse - Surreal AI Short Film (MidJourney, Hailuo, Udio)",
+   "titleKo": "더 그린하우스",
+   "creator": "Unverified creator",
+   "tools": [
+    "Midjourney",
+    "Hailuo",
+    "Udio"
+   ],
+   "category": "experimental",
+   "description": "미드저니 이미지, 하이루오(MiniMax) 영상, Udio 음악을 조합한 초현실 단편. 이미지·영상·음악을 모두 생성형 AI로 만든 인디 크리에이터 워크플로의 예시다.",
+   "addedAt": "2026-09-28T08:00:00.000Z",
+   "views": 4754,
+   "durationSec": 221,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-7K65pYWa220",
+   "youtubeId": "7K65pYWa220",
+   "title": "LET US EXPLORE | AI Short Film | Runway Gen:48 Winner \"Best Character\"",
+   "titleKo": "렛 어스 익스플로어",
+   "creator": "Unverified creator",
+   "tools": [
+    "Runway"
+   ],
+   "category": "short-film",
+   "description": "런웨이의 48시간 AI 영화 챌린지 Gen:48에서 '베스트 캐릭터' 상을 받은 단편. 제한된 시간 안에 AI로 완성한 작품이라는 점이 특징이다.",
+   "addedAt": "2026-09-28T07:00:00.000Z",
+   "views": 44844,
+   "durationSec": 86,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-54MIOgpKl5A",
+   "youtubeId": "54MIOgpKl5A",
+   "title": "The Heist",
+   "titleKo": "더 하이스트",
+   "creator": "Jason Zada (uploader unverified)",
+   "tools": [
+    "Veo"
+   ],
+   "category": "short-film",
+   "tags": [
+    "Veo 2"
+   ],
+   "year": 2024,
+   "description": "보석 강도의 추격전을 그린 짧은 액션 단편. 구글 Veo 2의 텍스트-투-비디오만으로 만든 작품으로 소개되며 Veo 2의 영화적 표현력을 보여준 사례로 회자됐다.",
+   "addedAt": "2026-09-28T06:00:00.000Z",
+   "views": 6147802,
+   "durationSec": 273,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-F_WfIzYGlg4",
+   "youtubeId": "F_WfIzYGlg4",
+   "title": "The Origin of Toys“R”Us: Brand Film Teaser | Toys\"R\"Us",
+   "titleKo": "토이저러스의 기원: 브랜드 필름 티저",
+   "creator": "Toys\"R\"Us / Native Foreign",
+   "tools": [
+    "Sora"
+   ],
+   "category": "commercial",
+   "year": 2024,
+   "description": "창업자 찰스 라자루스의 어린 시절과 마스코트 제프리 기린의 탄생을 그린 토이저러스 브랜드 필름. Native Foreign이 OpenAI Sora로 만든 최초의 브랜드 광고 영상으로 칸 라이언즈에서 공개되어 찬반 논쟁을 일으켰다.",
+   "addedAt": "2026-09-28T04:00:00.000Z",
+   "views": 295423,
+   "durationSec": 28,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt--qdx6VBJHBU",
+   "youtubeId": "-qdx6VBJHBU",
+   "title": "匚尺丨ㄒㄒ乇尺乙 -- An animated short created with AI",
+   "titleKo": "크리터즈",
+   "creator": "Chad Nelson / Native Foreign",
+   "tools": [
+    "DALL-E"
+   ],
+   "category": "animation",
+   "year": 2023,
+   "durationSec": 300,
+   "description": "자연 다큐멘터리를 패러디한 유쾌한 애니메이션 단편으로, 해설자가 기묘한 숲속 생물들과 대화한다. OpenAI DALL-E로 캐릭터와 세계를 디자인한 초기 AI 애니메이션이며 이후 장편 프로젝트로 확장됐다.",
+   "addedAt": "2026-09-28T04:00:00.000Z",
+   "views": 139924,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-0GInmi14IVE",
+   "youtubeId": "0GInmi14IVE",
+   "title": "2024 AI Film Festival | Get Me Out",
+   "titleKo": "겟 미 아웃",
+   "creator": "Daniel Antebi",
+   "tools": [
+    "Runway"
+   ],
+   "category": "short-film",
+   "year": 2024,
+   "description": "일본 이민자의 정체성과 트라우마를 초현실적 이미지로 그린 단편 '囚われて(Get Me Out)'. 런웨이 AI 영화제(AIFF) 2024 수상작으로, 실사와 AI 생성 영상을 결합했다.",
+   "addedAt": "2026-09-28T03:00:00.000Z",
+   "views": 1381,
+   "durationSec": 394,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-Shr6lm9roIs",
+   "youtubeId": "Shr6lm9roIs",
+   "title": "AI-Generated Official Coca-Cola Ad - \"Holidays Are Coming\"",
+   "titleKo": "코카콜라 'Holidays Are Coming' AI 광고",
+   "creator": "Coca-Cola (Secret Level / Silverside AI) — uploader unverified",
+   "tools": [
+    "생성형 AI"
+   ],
+   "category": "commercial",
+   "tags": [
+    "Generative AI (mixed)"
+   ],
+   "year": 2024,
+   "durationSec": 16,
+   "description": "1995년 코카콜라의 전설적인 크리스마스 광고 'Holidays Are Coming'을 생성형 AI로 재해석한 2024년 광고. 대형 브랜드가 대표 캠페인을 AI로 만든 사례로 큰 논쟁과 화제를 불러왔다.",
+   "addedAt": "2026-09-28T02:00:00.000Z",
+   "views": 230386,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt--Nb-M1GAOX8",
+   "youtubeId": "-Nb-M1GAOX8",
+   "title": "Washed Out - The Hardest Part (Official Video)",
+   "titleKo": "워시드 아웃 - The Hardest Part (공식 뮤직비디오)",
+   "creator": "Washed Out / dir. Paul Trillo",
+   "tools": [
+    "Sora"
+   ],
+   "category": "music-video",
+   "year": 2024,
+   "durationSec": 243,
+   "description": "한 커플의 일생을 끝없이 전진하는 줌 샷으로 관통하는 뮤직비디오. 감독 폴 트릴로가 연출했으며, Sora만으로 제작된 최초의 공식 커미션 뮤직비디오로 알려져 있다.",
+   "addedAt": "2026-09-28T01:00:00.000Z",
+   "views": 452567,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-9oryIMNVtto",
+   "youtubeId": "9oryIMNVtto",
+   "title": "air head · Made by shy kids with Sora",
+   "titleKo": "에어 헤드",
+   "creator": "shy kids",
+   "tools": [
+    "Sora"
+   ],
+   "category": "short-film",
+   "year": 2024,
+   "durationSec": 82,
+   "description": "머리가 노란 풍선인 남자의 일상을 담은 1분 남짓의 단편. 토론토 제작사 shy kids가 OpenAI Sora 초기 접근권으로 만든 최초의 Sora 단편 중 하나로, AI 영상의 서사적 가능성을 처음 대중에게 보여줬다.",
+   "addedAt": "2026-09-28T00:00:00.000Z",
+   "views": 248290,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  },
+  {
+   "id": "yt-3vfhIeNHhv4",
+   "youtubeId": "3vfhIeNHhv4",
+   "title": "Where The Robots Grow | Full Movie | Family | Adventure | First Ai Feature Film | 2024 | 4K",
+   "titleKo": "로봇이 자라는 곳",
+   "creator": "AiMation Studios",
+   "tools": [
+    "생성형 AI"
+   ],
+   "category": "animation",
+   "tags": [
+    "Generative AI (mixed)"
+   ],
+   "year": 2024,
+   "durationSec": 5276,
+   "description": "지구의 마지막 생존자들이 보낸 농업 로봇이 마지막 인간 아기를 발견하며 벌어지는 가족 어드벤처. 최초의 AI 장편 애니메이션 영화를 표방한 작품으로 전편이 공개돼 있다.",
+   "addedAt": "2026-09-28T00:00:00.000Z",
+   "views": 231485,
+   "verifiedAt": "2026-10-04T00:00:04.461Z"
+  }
+ ]
+}
