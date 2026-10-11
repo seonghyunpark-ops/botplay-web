@@ -1,0 +1,4211 @@
+{
+ "updates": [
+  {
+   "at": "2026-10-11T00:03:41.118Z",
+   "added": [
+    {
+     "id": "yt-wjhv0i8YXSg",
+     "title": "러브 미, 헤이트 미",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-qvfv5lNRfLg",
+     "title": "출처 미상의 사랑 EP.05 오류의 원인",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-f0k0W097WWw",
+     "title": "EP 10 비 오는 날, 우산 아래 우리",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-OX29ECCRXNs",
+     "title": "지구의 마지막 방어선: 사이버네틱 동물 군단",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-yNdtBnxVnY0",
+     "title": "Hate Me, Love Me 1화",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-46mo0VFuYoM",
+     "title": "에이지 오브 드래곤즈",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-PtrBzNUOYzk",
+     "title": "타이드본",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-LFAEMLBsSDw",
+     "title": "도라도: 플라토 66c",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-P5fi-9ZyOLE",
+     "title": "9091",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-qrFfWOKyFZU",
+     "title": "명일중구: 내일의 재구성",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-k-1zmPkQQ6M",
+     "title": "나비: 그녀는 노크하지 않는다",
+     "platform": "youtube"
+    }
+   ],
+   "removed": [],
+   "edited": [
+    {
+     "id": "instagram-DY4omlOK7L5",
+     "title": "마지막 밤",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DY3GJA9olQp",
+     "title": "수달의 잃어버린 돌",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db-xQP2STCS",
+     "title": "오네이릭",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7653554342808669460",
+     "title": "시간을 휘다",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "bilibili-BV1RsMJ6KEjA",
+     "title": "철부지 아이",
+     "platform": "bilibili",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccUaRNvJkh",
+     "title": "염력소녀: 점심시간",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdOU3IRhpje",
+     "title": "우리가 아직 한복을 ‘안’ 입는다면?!",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdUAPK0sj-h",
+     "title": "첫 출근 날",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691106880944377108",
+     "title": "그해 겨울, 맨해튼 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7678622640998780182",
+     "title": "라푼젤 2 시즌 2 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdAnFhYz4tq",
+     "title": "더 발레리나 — 파트 1",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db5myuKsvjc",
+     "title": "TANYA — 인류가 만든 세계",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdI1YqRilgt",
+     "title": "메이 — 케이블카",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DcOPqmctTaZ",
+     "title": "[메인 스토리] EP. 01 — 블레어와의 첫 만남",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdzhTeEo6bG",
+     "title": "하늘이 보낸 건 수호자가 아니었다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd4UtUCyJQT",
+     "title": "5화 — 전학생",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdREY5sE_oF",
+     "title": "수호도사: 세계유산을 지켜라",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3fhGJy0B0",
+     "title": "AEGIS: 세계의 영원한 수호자들 – 이순신의 등장",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dc4F1z7itkK",
+     "title": "더 캘빙",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7685701599913725206",
+     "title": "어색한 만남, 완벽한 거짓말",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7679528440130718996",
+     "title": "강아지가 제일 좋아하는 사람",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691795642024283412",
+     "title": "그해 겨울 맨해튼 2화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7686966376019397908",
+     "title": "EP.49 이제 갈 수 있어요",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7676919493276273928",
+     "title": "염력소녀",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iS8xIeYf",
+     "title": "미래는 오지 않았다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iJqPyvDd",
+     "title": "AI 요원 남자현의 긴급 호출",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DbMQYroyJrX",
+     "title": "시그널 힐",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccxGoohKcL",
+     "title": "청룡 대 니드회그",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    }
+   ]
+  },
+  {
+   "at": "2026-10-10T00:03:42.439Z",
+   "added": [
+    {
+     "id": "yt-0Ankrtav518",
+     "title": "테오와 헤이즈 - 새로운 시작",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-fjUxyOkP6UY",
+     "title": "브레이크 원 3화",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-cGSGZBCH66I",
+     "title": "빛이 머문 자리 10화",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-0L2GfyQD7iM",
+     "title": "큰놈을 들였다 2화: 화전장심",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-srOkHt-AIPc",
+     "title": "달링 – 불만 상자",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-T20Jxf3xqCo",
+     "title": "오프 더 레코드 (1~3부 합본)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-WO_j_J7KT_w",
+     "title": "저주를 앞지르는 질주: 검은 표범과의 대결",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-3qPsxs6lWwo",
+     "title": "당연하잖아 (BL 숏드라마 EP.20)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-cU37RARQvjA",
+     "title": "아트마반담",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-tAS5ByPe-aI",
+     "title": "만보각 귀로",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-0U-Lbx9BRwY",
+     "title": "Darling: Cookie - 둘이 원래 이래요?",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-t4WpjJvF1FY",
+     "title": "무송타호",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-akp4ymEqqSE",
+     "title": "어제는 오지 않는다",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-sLn_r8tRqeA",
+     "title": "비밀의 보물",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-Y-nkCaPN9aQ",
+     "title": "이방의 황후",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-0EpMGEa70Wk",
+     "title": "일도",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-sT-sOW1CMEc",
+     "title": "사랑이 깃든 저녁",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-WDdB-xsEYG8",
+     "title": "도미니오",
+     "platform": "youtube"
+    }
+   ],
+   "removed": [
+    {
+     "id": "yt-P6M6aa-Nku4",
+     "title": "MAX | 예고편",
+     "platform": "youtube"
+    }
+   ],
+   "edited": [
+    {
+     "id": "instagram-DY4omlOK7L5",
+     "title": "마지막 밤",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DY3GJA9olQp",
+     "title": "수달의 잃어버린 돌",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db-xQP2STCS",
+     "title": "오네이릭",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7653554342808669460",
+     "title": "시간을 휘다",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccUaRNvJkh",
+     "title": "염력소녀: 점심시간",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdOU3IRhpje",
+     "title": "우리가 아직 한복을 ‘안’ 입는다면?!",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdUAPK0sj-h",
+     "title": "첫 출근 날",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691106880944377108",
+     "title": "그해 겨울, 맨해튼 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7678622640998780182",
+     "title": "라푼젤 2 시즌 2 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdAnFhYz4tq",
+     "title": "더 발레리나 — 파트 1",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db5myuKsvjc",
+     "title": "TANYA — 인류가 만든 세계",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdI1YqRilgt",
+     "title": "메이 — 케이블카",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DcOPqmctTaZ",
+     "title": "[메인 스토리] EP. 01 — 블레어와의 첫 만남",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdzhTeEo6bG",
+     "title": "하늘이 보낸 건 수호자가 아니었다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd4UtUCyJQT",
+     "title": "5화 — 전학생",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdREY5sE_oF",
+     "title": "수호도사: 세계유산을 지켜라",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3fhGJy0B0",
+     "title": "AEGIS: 세계의 영원한 수호자들 – 이순신의 등장",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dc4F1z7itkK",
+     "title": "더 캘빙",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7685701599913725206",
+     "title": "어색한 만남, 완벽한 거짓말",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7679528440130718996",
+     "title": "강아지가 제일 좋아하는 사람",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691795642024283412",
+     "title": "그해 겨울 맨해튼 2화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7686966376019397908",
+     "title": "EP.49 이제 갈 수 있어요",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7676919493276273928",
+     "title": "염력소녀",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iS8xIeYf",
+     "title": "미래는 오지 않았다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iJqPyvDd",
+     "title": "AI 요원 남자현의 긴급 호출",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DbMQYroyJrX",
+     "title": "시그널 힐",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccxGoohKcL",
+     "title": "청룡 대 니드회그",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    }
+   ]
+  },
+  {
+   "at": "2026-10-09T00:03:57.484Z",
+   "added": [
+    {
+     "id": "yt-y_rwApI5gkU",
+     "title": "다시 & 빙리 1~5화 재편집판",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-IbEzpsp18Gw",
+     "title": "달링 EP.03 벌써 한 명 성공?",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-1woRz3brYg0",
+     "title": "클로즈 쿼터스 EP.01 하룻밤 상대가 신입으로",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-iLi4Y0qymF0",
+     "title": "출처 미상의 사랑 캐릭터 필름",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-5oiDVmvVaNg",
+     "title": "달링 EP.04 키스는 했는데, 그 다음은?",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-xzCeL1eK5dY",
+     "title": "쇼와 40년 독신 샐러리맨의 월급날",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-A7u-kTQdrAo",
+     "title": "마지막 온기",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-giHqw7dhEOw",
+     "title": "취호권 4화",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-uPV5jXkfY5g",
+     "title": "괴한인 줄 알았는데",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-Um1Ru4ogKkk",
+     "title": "사이드 이펙트 EP 02",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-Jj59MTTi5rQ",
+     "title": "출처 미상의 사랑 - 한도일 × 차에단 캐릭터 필름",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-ybSlmoNCvds",
+     "title": "오버그로스: 죽은 도시",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-5NZ0zNj5hMk",
+     "title": "칼날 위에서 달에게 묻다",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-X-7YS9ePTi0",
+     "title": "강철장미 1~4화 몰아보기",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-SLnW3MQsxbU",
+     "title": "전쟁은 끝났다",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-SKJsXF8OZzc",
+     "title": "철의 미녀 6화",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-Ixj6Zu9bahU",
+     "title": "슬픈 몰골의 기사",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-gzsCPVFfiPw",
+     "title": "더 몽: 먼 산의 전사들",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-0XyIGiUqhMs",
+     "title": "본의 연대기: 마지막 암살자",
+     "platform": "youtube"
+    }
+   ],
+   "removed": [],
+   "edited": [
+    {
+     "id": "instagram-DY4omlOK7L5",
+     "title": "마지막 밤",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DY3GJA9olQp",
+     "title": "수달의 잃어버린 돌",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db-xQP2STCS",
+     "title": "오네이릭",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7653554342808669460",
+     "title": "시간을 휘다",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccUaRNvJkh",
+     "title": "염력소녀: 점심시간",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdOU3IRhpje",
+     "title": "우리가 아직 한복을 ‘안’ 입는다면?!",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdUAPK0sj-h",
+     "title": "첫 출근 날",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691106880944377108",
+     "title": "그해 겨울, 맨해튼 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7678622640998780182",
+     "title": "라푼젤 2 시즌 2 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdAnFhYz4tq",
+     "title": "더 발레리나 — 파트 1",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db5myuKsvjc",
+     "title": "TANYA — 인류가 만든 세계",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdI1YqRilgt",
+     "title": "메이 — 케이블카",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DcOPqmctTaZ",
+     "title": "[메인 스토리] EP. 01 — 블레어와의 첫 만남",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdzhTeEo6bG",
+     "title": "하늘이 보낸 건 수호자가 아니었다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd4UtUCyJQT",
+     "title": "5화 — 전학생",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdREY5sE_oF",
+     "title": "수호도사: 세계유산을 지켜라",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3fhGJy0B0",
+     "title": "AEGIS: 세계의 영원한 수호자들 – 이순신의 등장",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dc4F1z7itkK",
+     "title": "더 캘빙",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7685701599913725206",
+     "title": "어색한 만남, 완벽한 거짓말",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7679528440130718996",
+     "title": "강아지가 제일 좋아하는 사람",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691795642024283412",
+     "title": "그해 겨울 맨해튼 2화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7686966376019397908",
+     "title": "EP.49 이제 갈 수 있어요",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7676919493276273928",
+     "title": "염력소녀",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iS8xIeYf",
+     "title": "미래는 오지 않았다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iJqPyvDd",
+     "title": "AI 요원 남자현의 긴급 호출",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DbMQYroyJrX",
+     "title": "시그널 힐",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccxGoohKcL",
+     "title": "청룡 대 니드회그",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    }
+   ]
+  },
+  {
+   "at": "2026-10-08T00:07:14.218Z",
+   "added": [
+    {
+     "id": "yt-COdH8BSNZio",
+     "title": "사초 (史草)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-PwuHtD3XwcY",
+     "title": "종(種)의 허기 EP.01",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-eL2OYwAgbvw",
+     "title": "여름의 사랑 2부 – 이선과 마일스",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-q4toK6H0ef0",
+     "title": "1944년, 프랑스 어딘가 – 영화의 한 조각",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-9tdOfeQlnek",
+     "title": "에단과 마일스: 다정함과 신뢰의 사랑",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-k_5pZcP4vMc",
+     "title": "미친 척 엄마를 불렀더니, 앙숙이 나를 아껴요 1화",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-swbhN7WIJpM",
+     "title": "떠나려던 마을",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-DVSajWLtMhE",
+     "title": "재회가 벗겨낸 가면",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-p3tRZdAman4",
+     "title": "러브 미, 헤이트 미 6화: 알파와 오메가의 해변 여행",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-SXzu-VMzSIc",
+     "title": "용의 뼈에 묻힌 비밀",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-iXpEcPsswpU",
+     "title": "추방된 괴물",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-hhiK1L0Mrfk",
+     "title": "삼중세계 21화: 누가? 내가?",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-ywnmtR8mapE",
+     "title": "택시기사를 괴롭힌 남자, 결국 차수현 형사의 표적이 됐다 EP 1",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-zQgaRCLEvmY",
+     "title": "스팀펑크: 오로라 베일 4화 – 런던 아래 깨어난 괴물",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-5hkLR3Vff04",
+     "title": "라푼젤 2: 플로르나의 세계",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-HJf3suKAE0A",
+     "title": "백 투 더 존스",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-Gernv-rgbg0",
+     "title": "카자나 파트 3 – 나그반시의 마지막 비밀",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-nN7YoY7Sn0U",
+     "title": "사초 (史草)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-lWrkV3uCqPc",
+     "title": "엑소더스",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-OzgwNlUyPBk",
+     "title": "백 투 더 존스",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-3ME2Sn8YO1k",
+     "title": "스페이스 바이킹: 마지막 습격",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-q608RreRdog",
+     "title": "들키는 순간 사람들을 지워버리는 최악의 매장 [SCP-3008]",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-9pVd6qOHHiU",
+     "title": "신성한 옥새",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-Wkbxy4_5a64",
+     "title": "마수 BEAST",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-I9PIWjH_Y8o",
+     "title": "세같살 EP.1 '말로만?'",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-OE3mC6PrzbA",
+     "title": "이슈크 베남 마지막 화: 계약 결혼의 끝",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-6mQpeGYYxNE",
+     "title": "천군 3화: 임진왜란에 투입된 대한민국 군대",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-lx03tJdnELA",
+     "title": "추락하는 별 EP2: 침공은 시작일 뿐",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-K1z9uJ5VZww",
+     "title": "NEXO 1화: 피와 왁스",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-jqKDkjd1eDQ",
+     "title": "술탄 말리크 샤: 카부르트의 반란",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-qBVbt7vEgfE",
+     "title": "사이버 영웅전 AI 애니메이션 샘플",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-OvlT1WFQ2e0",
+     "title": "너와 난(우리) 외전",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-M7B_bA3Cl8Q",
+     "title": "메카 종말: AI로 만든 SF 전쟁",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-RYuY_iOrkOs",
+     "title": "에덴: 사이버펑크 웨스턴",
+     "platform": "youtube"
+    }
+   ],
+   "removed": [
+    {
+     "id": "yt-oDpR_ao3LSs",
+     "title": "카차의 눈물",
+     "platform": "youtube"
+    }
+   ],
+   "edited": [
+    {
+     "id": "instagram-DY4omlOK7L5",
+     "title": "마지막 밤",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DY3GJA9olQp",
+     "title": "수달의 잃어버린 돌",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db-xQP2STCS",
+     "title": "오네이릭",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7653554342808669460",
+     "title": "시간을 휘다",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccUaRNvJkh",
+     "title": "염력소녀: 점심시간",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdOU3IRhpje",
+     "title": "우리가 아직 한복을 ‘안’ 입는다면?!",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdUAPK0sj-h",
+     "title": "첫 출근 날",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691106880944377108",
+     "title": "그해 겨울, 맨해튼 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7678622640998780182",
+     "title": "라푼젤 2 시즌 2 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdAnFhYz4tq",
+     "title": "더 발레리나 — 파트 1",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db5myuKsvjc",
+     "title": "TANYA — 인류가 만든 세계",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdI1YqRilgt",
+     "title": "메이 — 케이블카",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DcOPqmctTaZ",
+     "title": "[메인 스토리] EP. 01 — 블레어와의 첫 만남",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdzhTeEo6bG",
+     "title": "하늘이 보낸 건 수호자가 아니었다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd4UtUCyJQT",
+     "title": "5화 — 전학생",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdREY5sE_oF",
+     "title": "수호도사: 세계유산을 지켜라",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3fhGJy0B0",
+     "title": "AEGIS: 세계의 영원한 수호자들 – 이순신의 등장",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dc4F1z7itkK",
+     "title": "더 캘빙",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7685701599913725206",
+     "title": "어색한 만남, 완벽한 거짓말",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7679528440130718996",
+     "title": "강아지가 제일 좋아하는 사람",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691795642024283412",
+     "title": "그해 겨울 맨해튼 2화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7686966376019397908",
+     "title": "EP.49 이제 갈 수 있어요",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iS8xIeYf",
+     "title": "미래는 오지 않았다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iJqPyvDd",
+     "title": "AI 요원 남자현의 긴급 호출",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DbMQYroyJrX",
+     "title": "시그널 힐",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccxGoohKcL",
+     "title": "청룡 대 니드회그",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    }
+   ]
+  },
+  {
+   "at": "2026-10-07T08:09:44.550Z",
+   "added": [
+    {
+     "id": "yt-Tsf3XDVkXYg",
+     "title": "Brake ONE: 미친 라이벌이 집착하기 시작했다",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-PXOFmE9wf1k",
+     "title": "Brake ONE 2화: 거래",
+     "platform": "youtube"
+    }
+   ],
+   "removed": [],
+   "edited": []
+  },
+  {
+   "at": "2026-10-07T00:04:57.804Z",
+   "added": [
+    {
+     "id": "yt-vQZL-sqmwNU",
+     "title": "잇츠미 EP.1 - 평범한 하루가 끝났다",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-3lEVwEGW3Hc",
+     "title": "〈출처 미상의 사랑〉 OST - 불러줘 (Call My Name)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-qHA1SC4DrD4",
+     "title": "금욕 교수와 순한 어린 선생 EP01",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-fXXqPVqVJgM",
+     "title": "순정 소년은 너무 잘 설렌다 (전편)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-RHthN1B0vgg",
+     "title": "엇갈린 짝사랑 (전편)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-0b__fX9qt6U",
+     "title": "실연 후 연적과 하룻밤을 보냈다 (시즌1 전편)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-dJE6ZEqn-RY",
+     "title": "〈출처 미상의 사랑〉 OST - 내게 와 (Come to Me)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-9vR22xTmcqA",
+     "title": "순정 소년은 너무 잘 설렌다 (상편)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-JgRzWpo-VMk",
+     "title": "달링 EP.01 - 잘생긴 애 옆에 또 잘생긴 애",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-HRhrUAy_R40",
+     "title": "달링 EP.02 - 둘 다 이러면 곤란한데",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-bkrdh-ZB_Ks",
+     "title": "〈침향〉 외전 EP.4 - 젖은 옷은 벗어야죠",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-csonfsBhwXg",
+     "title": "〈침향〉 외전 EP.5 - 처음인 척, 모르는 척",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-NlRCm1gcxCQ",
+     "title": "러브 미, 헤이트 미 EP.4",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-Rvq35UXvkdk",
+     "title": "빛이 머문 자리 EP.09 - D-58, 한 번만 더",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-89sy79_sCqA",
+     "title": "낮에는 교수님, 밤에는 선생님 (전편)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-6x52_ebPh-I",
+     "title": "썸머 러브 3부 – 이든과 마일즈",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-zcHPGZZ6-ag",
+     "title": "침향 외전 OST – 처음인 척, 모르는 척",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-mz7Mgvx7n_o",
+     "title": "빛이 머문 자리 EP.08 – 저 형 좋아하는 거 같아요",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-FpjetA_hHvU",
+     "title": "궁궐 담장에 피는 꽃 – OST·미공개 장면",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-pefiy_l5mZ0",
+     "title": "그 녀석이 돌아왔다 1~5화 합본",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-j9b5We71YWo",
+     "title": "미완 – 공식 예고편",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-vbfPDBEBuSo",
+     "title": "출처 미상의 사랑 – 30초 예고",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-_wVPxZaJKls",
+     "title": "CEO가 보모를 남편으로 맞았다 EP.02",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-MDkdcLLaynI",
+     "title": "귓볼 – 피어나, 피어나, 피어나 MV",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-VT5m56EPf9E",
+     "title": "블러드바운드 EP.01 – 비 오는 밤",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-vQNLXrgabfQ",
+     "title": "구원의 덫 – 프롤로그",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-qFoHnBrHjLk",
+     "title": "월흔 EP.3 – 시선을 거둘 수가 없었다",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-bR4JRonokA0",
+     "title": "더 풀",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-NSLSEwwr93I",
+     "title": "러브 미, 헤이트 미 8화 - 알파와 오메가 사랑 이야기의 마지막 장",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-j3fSooPfXAQ",
+     "title": "러브 미, 헤이트 미 7화 - 알파와 오메가의 사랑은 끝나가는가",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-PcYDG7gyMZU",
+     "title": "STILL",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-6dzFy1ZOyKs",
+     "title": "일타 - 원 노트 맨",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-8D7ZNU63Sl0",
+     "title": "발리 - 라바나도 두려워한 자, 키슈킨다의 숨겨진 이야기",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-FoPjnDYgAV0",
+     "title": "플래닛 9 — 완결 AI SF 시리즈 1~5장",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-dqCGNrQ6N_o",
+     "title": "어머니의 괴물 | 용을 낳은 여인",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-07pFL0wxWuQ",
+     "title": "애시본 — 몰래 용을 키운 어머니",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-l-k5bZK1kS0",
+     "title": "에이지 오브 킹덤즈 4부 — 왕의 귀환",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-dGnjxL64HHY",
+     "title": "낙하 707: 리부트 시즌 2 1-2화 – 목포진의 밤",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-8ekZUqtIWzs",
+     "title": "삼중세계 외전 – 지금",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-3pBwyuxdEWA",
+     "title": "리조트 아르바이트 – 오싹한 괴담 단편",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-_ng4G9Y3fcA",
+     "title": "신성한 HOLYLOG EP.07 – 전남친과 옆집 남자",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-7T1N5m18er0",
+     "title": "웨스턴 디파짓",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-SJQJ5UbDnCo",
+     "title": "비스트랜즈 – 왕의 잃어버린 아들",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-TEe_j92VNGA",
+     "title": "20화. 별호",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-xPZ3HL7m6wg",
+     "title": "루미나라 — 리자의 모험 1부",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-Q1tfsVUCoxU",
+     "title": "드래곤을 낳은 여인 2부 — 어머니의 괴물",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-UgqeNTwoWHU",
+     "title": "인어: 가라앉은 왕국의 저주",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-_yboqvbbChw",
+     "title": "지니의 집 코헤카프 4부",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-sG_hETdcyQA",
+     "title": "먼지와 피 – 2부: 여정",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-oqS7OtNSXwE",
+     "title": "바람핀 전남친의 사정 | 신성한 HOLYLOG EP.06",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-jNJdQt0MWvk",
+     "title": "해충 방제",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-6-tkYxRZyd4",
+     "title": "어머니의 괴물 | 공식 예고편",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt--bs1AP6ybjQ",
+     "title": "레즈비언 중매쟁이",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-CnEWqwasEOU",
+     "title": "다니얄(A.S) – 더 무비",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-tHwn2iP3oqk",
+     "title": "킥의 여신 1화 | 신사역 주유소에 전설이 나타났다",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-56hVESyjmQo",
+     "title": "리버 오브 파이어 — 정글 구출 작전",
+     "platform": "youtube"
+    }
+   ],
+   "removed": [],
+   "edited": [
+    {
+     "id": "yt-3YTVna08wbM",
+     "title": "오프 더 북스",
+     "platform": "youtube",
+     "fields": [
+      "embeddable"
+     ]
+    },
+    {
+     "id": "instagram-DY4omlOK7L5",
+     "title": "마지막 밤",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DY3GJA9olQp",
+     "title": "수달의 잃어버린 돌",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db-xQP2STCS",
+     "title": "오네이릭",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7653554342808669460",
+     "title": "시간을 휘다",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccUaRNvJkh",
+     "title": "염력소녀: 점심시간",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdOU3IRhpje",
+     "title": "우리가 아직 한복을 ‘안’ 입는다면?!",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdUAPK0sj-h",
+     "title": "첫 출근 날",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691106880944377108",
+     "title": "그해 겨울, 맨해튼 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7678622640998780182",
+     "title": "라푼젤 2 시즌 2 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdAnFhYz4tq",
+     "title": "더 발레리나 — 파트 1",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db5myuKsvjc",
+     "title": "TANYA — 인류가 만든 세계",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdI1YqRilgt",
+     "title": "메이 — 케이블카",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DcOPqmctTaZ",
+     "title": "[메인 스토리] EP. 01 — 블레어와의 첫 만남",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdzhTeEo6bG",
+     "title": "하늘이 보낸 건 수호자가 아니었다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd4UtUCyJQT",
+     "title": "5화 — 전학생",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdREY5sE_oF",
+     "title": "수호도사: 세계유산을 지켜라",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3fhGJy0B0",
+     "title": "AEGIS: 세계의 영원한 수호자들 – 이순신의 등장",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dc4F1z7itkK",
+     "title": "더 캘빙",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7685701599913725206",
+     "title": "어색한 만남, 완벽한 거짓말",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7679528440130718996",
+     "title": "강아지가 제일 좋아하는 사람",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691795642024283412",
+     "title": "그해 겨울 맨해튼 2화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7686966376019397908",
+     "title": "EP.49 이제 갈 수 있어요",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7676919493276273928",
+     "title": "염력소녀",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iS8xIeYf",
+     "title": "미래는 오지 않았다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iJqPyvDd",
+     "title": "AI 요원 남자현의 긴급 호출",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DbMQYroyJrX",
+     "title": "시그널 힐",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccxGoohKcL",
+     "title": "청룡 대 니드회그",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    }
+   ]
+  },
+  {
+   "at": "2026-10-06T06:24:44.880Z",
+   "added": [],
+   "removed": [],
+   "edited": [
+    {
+     "id": "instagram-DY4omlOK7L5",
+     "title": "마지막 밤",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DY3GJA9olQp",
+     "title": "수달의 잃어버린 돌",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db-xQP2STCS",
+     "title": "오네이릭",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccUaRNvJkh",
+     "title": "염력소녀: 점심시간",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdOU3IRhpje",
+     "title": "우리가 아직 한복을 ‘안’ 입는다면?!",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdUAPK0sj-h",
+     "title": "첫 출근 날",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdAnFhYz4tq",
+     "title": "더 발레리나 — 파트 1",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db5myuKsvjc",
+     "title": "TANYA — 인류가 만든 세계",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdI1YqRilgt",
+     "title": "메이 — 케이블카",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DcOPqmctTaZ",
+     "title": "[메인 스토리] EP. 01 — 블레어와의 첫 만남",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdzhTeEo6bG",
+     "title": "하늘이 보낸 건 수호자가 아니었다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd4UtUCyJQT",
+     "title": "5화 — 전학생",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdREY5sE_oF",
+     "title": "수호도사: 세계유산을 지켜라",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3fhGJy0B0",
+     "title": "AEGIS: 세계의 영원한 수호자들 – 이순신의 등장",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dc4F1z7itkK",
+     "title": "더 캘빙",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7685701599913725206",
+     "title": "어색한 만남, 완벽한 거짓말",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7679528440130718996",
+     "title": "강아지가 제일 좋아하는 사람",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7686966376019397908",
+     "title": "EP.49 이제 갈 수 있어요",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iS8xIeYf",
+     "title": "미래는 오지 않았다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iJqPyvDd",
+     "title": "AI 요원 남자현의 긴급 호출",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DbMQYroyJrX",
+     "title": "시그널 힐",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccxGoohKcL",
+     "title": "청룡 대 니드회그",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    }
+   ]
+  },
+  {
+   "at": "2026-10-06T06:22:59.656Z",
+   "added": [
+    {
+     "id": "yt-Cxt2szmCAcg",
+     "title": "루피: 변화의 날",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-yfTBOiHXj-0",
+     "title": "감자와 무가 만든 흙 장난감",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-kW3ZvC81_R4",
+     "title": "폭풍우 치던 밤, 마을에 찾아온 사자",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-lEnvmni7w9g",
+     "title": "AI와 나누는 대화",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-UbIRzzScSek",
+     "title": "아이를 혼내지 마세요",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-M2Ii9jp8WQs",
+     "title": "끊어진 슬리퍼 끈과 안전핀",
+     "platform": "youtube"
+    }
+   ],
+   "removed": [],
+   "edited": [
+    {
+     "id": "instagram-DY4omlOK7L5",
+     "title": "마지막 밤",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DY3GJA9olQp",
+     "title": "수달의 잃어버린 돌",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db-xQP2STCS",
+     "title": "오네이릭",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7653554342808669460",
+     "title": "시간을 휘다",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccUaRNvJkh",
+     "title": "염력소녀: 점심시간",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdOU3IRhpje",
+     "title": "우리가 아직 한복을 ‘안’ 입는다면?!",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdUAPK0sj-h",
+     "title": "첫 출근 날",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691106880944377108",
+     "title": "그해 겨울, 맨해튼 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7678622640998780182",
+     "title": "라푼젤 2 시즌 2 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdAnFhYz4tq",
+     "title": "더 발레리나 — 파트 1",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db5myuKsvjc",
+     "title": "TANYA — 인류가 만든 세계",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdI1YqRilgt",
+     "title": "메이 — 케이블카",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DcOPqmctTaZ",
+     "title": "[메인 스토리] EP. 01 — 블레어와의 첫 만남",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdzhTeEo6bG",
+     "title": "하늘이 보낸 건 수호자가 아니었다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd4UtUCyJQT",
+     "title": "5화 — 전학생",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdREY5sE_oF",
+     "title": "수호도사: 세계유산을 지켜라",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3fhGJy0B0",
+     "title": "AEGIS: 세계의 영원한 수호자들 – 이순신의 등장",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dc4F1z7itkK",
+     "title": "더 캘빙",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7685701599913725206",
+     "title": "어색한 만남, 완벽한 거짓말",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7679528440130718996",
+     "title": "강아지가 제일 좋아하는 사람",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691795642024283412",
+     "title": "그해 겨울 맨해튼 2화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7686966376019397908",
+     "title": "EP.49 이제 갈 수 있어요",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7676919493276273928",
+     "title": "염력소녀",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iS8xIeYf",
+     "title": "미래는 오지 않았다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iJqPyvDd",
+     "title": "AI 요원 남자현의 긴급 호출",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DbMQYroyJrX",
+     "title": "시그널 힐",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccxGoohKcL",
+     "title": "청룡 대 니드회그",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    }
+   ]
+  },
+  {
+   "at": "2026-10-06T04:42:23.825Z",
+   "added": [
+    {
+     "id": "yt-y3a0HiUUWcY",
+     "title": "출처 미상의 사랑 EP.03 잘못된 답장",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-R6v18teHo80",
+     "title": "출처 미상의 사랑 EP.01 기억에 없는 이름",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-d0bPNhaUlJY",
+     "title": "출처 미상의 사랑 EP.02 수신 불명의 시그널",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-irh8omzNp-0",
+     "title": "출처 미상의 사랑 EP.04 접근권한",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-TKOwx4t7eAA",
+     "title": "테오와 헤이즈: 새로운 시작",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-8V9k1KCTkSI",
+     "title": "다아시 × 빙리 EP.04 더 가까이 가고 싶어",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-IekhvItvGTw",
+     "title": "출처 미상의 사랑 공식 예고편",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-APdAo_xAfy0",
+     "title": "다아시 × 빙리 EP.02 신사가 이성을 잃을 때",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-5XL1jRT_Sog",
+     "title": "다아시 × 빙리 EP.03 우정으로는 부족할 때",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-aazz8zr-2ow",
+     "title": "다아시 × 빙리 번외 1화 펨벌리의 평화로운 하루",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-cRZpbfO1Yj8",
+     "title": "EXTRA EP.02 친구라는 의미",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-vHPlL1-9dLA",
+     "title": "1944년 프랑스 어딘가 | 영화의 한 조각",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-xj8ua30XlFs",
+     "title": "EP.01 둘이 친구 이상이라면? | 다아시 × 빙리",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-Gmqggu3smSo",
+     "title": "EP.05 오만과 편견 BL 버전 | 다아시 × 빙리",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-ecM9tYbBMO4",
+     "title": "그해, 여름은",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-kDr9zmL6qXI",
+     "title": "잔흔 (殘痕)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-jZEutQFtZQg",
+     "title": "EXTRA EP.03 에버 애프터 | 최종화",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-sKrNN5sAYFQ",
+     "title": "검은 기도",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-5VQrHlhBhlQ",
+     "title": "9년… 무엇이 두려운가요?",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-Lpw00zAJ2qc",
+     "title": "종의 허기",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-NzTR8o6FnTs",
+     "title": "다아시 x 빙리 EP.05 (오만과 편견 BL)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-zZ1XycmSONw",
+     "title": "트리하우스",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-eYhsjNotHRo",
+     "title": "해변에서 (Beira-Mar)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-K86CX9Nf8EI",
+     "title": "쇼핑 나들이 (다아시 × 빙리 EP.03)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-_s-b17Zeqss",
+     "title": "오만과 편견 BL 버전 EP.05 – 그 후로 영원히",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-mB_kyIl3tAY",
+     "title": "Lost Inside the Crowd",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-4Or8iswph-4",
+     "title": "In Your Company (다아시 × 빙리 M/V)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-ID0hzVvNUuw",
+     "title": "언매치드 (UNMATCHED) 티저",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-2Jw77ud5tyI",
+     "title": "잔흔 (殘痕)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-W91JuOLnMXs",
+     "title": "지구 너머 어딘가에 | 시네마틱 컨셉",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-wFxIR6tVQZg",
+     "title": "비트윈 어스 | 여섯 시대, 하나의 사랑",
+     "platform": "youtube"
+    }
+   ],
+   "removed": [],
+   "edited": [
+    {
+     "id": "instagram-DY4omlOK7L5",
+     "title": "마지막 밤",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DY3GJA9olQp",
+     "title": "수달의 잃어버린 돌",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db-xQP2STCS",
+     "title": "오네이릭",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccUaRNvJkh",
+     "title": "염력소녀: 점심시간",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdOU3IRhpje",
+     "title": "우리가 아직 한복을 ‘안’ 입는다면?!",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdUAPK0sj-h",
+     "title": "첫 출근 날",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdAnFhYz4tq",
+     "title": "더 발레리나 — 파트 1",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db5myuKsvjc",
+     "title": "TANYA — 인류가 만든 세계",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdI1YqRilgt",
+     "title": "메이 — 케이블카",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DcOPqmctTaZ",
+     "title": "[메인 스토리] EP. 01 — 블레어와의 첫 만남",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdzhTeEo6bG",
+     "title": "하늘이 보낸 건 수호자가 아니었다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd4UtUCyJQT",
+     "title": "5화 — 전학생",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdREY5sE_oF",
+     "title": "수호도사: 세계유산을 지켜라",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3fhGJy0B0",
+     "title": "AEGIS: 세계의 영원한 수호자들 – 이순신의 등장",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dc4F1z7itkK",
+     "title": "더 캘빙",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7679528440130718996",
+     "title": "강아지가 제일 좋아하는 사람",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691795642024283412",
+     "title": "그해 겨울 맨해튼 2화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7676919493276273928",
+     "title": "염력소녀",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iS8xIeYf",
+     "title": "미래는 오지 않았다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iJqPyvDd",
+     "title": "AI 요원 남자현의 긴급 호출",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DbMQYroyJrX",
+     "title": "시그널 힐",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccxGoohKcL",
+     "title": "청룡 대 니드회그",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    }
+   ]
+  },
+  {
+   "at": "2026-10-06T04:39:42.282Z",
+   "added": [
+    {
+     "id": "yt-BeTM9P5wDK8",
+     "title": "CCTV에 포착된 섬뜩한 산타클로스",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-gdYZUZJJ5dk",
+     "title": "할머니의 무서운 이야기",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-G-G51TQBHzE",
+     "title": "리전: 제국의 새벽",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-oAI-EBvSwbY",
+     "title": "절름발이 협객전 1화: 쇠락한 당문",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-ziw03BIcqdU",
+     "title": "스트랜디드: 생존의 섬",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-e5fFWS15coY",
+     "title": "천군: 병자호란",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-5rhu9IjIMKo",
+     "title": "대자연의 궁전과 딸들",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-kVfyhEG9sOE",
+     "title": "메두사",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-5r9mWWE624A",
+     "title": "1959 할리우드 산책 - 이보다 아름다운 시절은 없어",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-x5kDQkeSUFM",
+     "title": "절름발이 협객전 2화: 산을 내려오면 곧 강호",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-s7LL9Av66No",
+     "title": "강철소대: 타임슬립 1636 병자호란에 떨어진 대한민국 군대",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-VoYFAVrTWpk",
+     "title": "어차피 살 시간도 없는데",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-wW5CYqCvWzI",
+     "title": "대사형",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-R9SUmeWnOBc",
+     "title": "Cardinal X25 - Phakade",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-9ERK_nnZQ3Q",
+     "title": "우주 오디세이",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-tark8E868yM",
+     "title": "판타지 | 신데렐라 | 우아한 걸음",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-0Wj7ZRcaQL0",
+     "title": "괴물의 딸 차지숙",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-tnNsd5do3-c",
+     "title": "K-47 벌레 떼의 습격 EP01",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-IKrQo_BQWj8",
+     "title": "LEO 시즌1 통합본: 인간을 파는 왕국",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-EaTvBF1I6ZQ",
+     "title": "What Remains",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-loiv6Ry1glA",
+     "title": "K-47 EP03 벌레 떼의 습격",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-vp7xoPeWzEw",
+     "title": "Age of Beyond",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-uPPpyHgqmBI",
+     "title": "천군: 타임슬립 1636 (2화)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-96s9nNEwj1k",
+     "title": "K-47 EP02: 벌레 떼의 습격",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-6bOklwBi8Ek",
+     "title": "진주탑 궁전의 딸들",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-jkuS37DqjbU",
+     "title": "생명의 키스",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-oDpR_ao3LSs",
+     "title": "카차의 눈물",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-yXehM7hbaMo",
+     "title": "무명: 645년 안시성 전투에 떨어진 대한민국 공병대",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-2QrY7WqytFs",
+     "title": "코드 오브 레지스턴스 4부: 코어의 잿더미",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-ToEfIA2ffco",
+     "title": "레전드 (2026)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-7rjccqhHQ8c",
+     "title": "저스트 어 키스",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-NmSq-oM3D_I",
+     "title": "케랄라의 외계인",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-QnvsLxtiR08",
+     "title": "해라 아이는 아빠예요 (AI 대만어 노래)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-1yoT3wBypuA",
+     "title": "별과 사랑에 빠지다",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-b13ApHV-vz4",
+     "title": "스팀펑크 발레리나",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-S9o3MzrYi7g",
+     "title": "재난문자 2: 지하철",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-nTlX8N8gKbI",
+     "title": "바람꽃",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-eM-HiDGCv3c",
+     "title": "페더웨이트 1화 (리마스터)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-BeYJpPhHF6c",
+     "title": "둠스데이 메카",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-cBvq0wG8Nvw",
+     "title": "사일런트 테이크다운",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-g2OYzscCpHE",
+     "title": "백야 EP.01 \"저 퇴근했는데요?\"",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-o72FpCGnGWw",
+     "title": "더 휴먼 헌트 1화",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-GpRl3PNsmeM",
+     "title": "사마라 - Hkeya (공식 AI 뮤직비디오)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-M-FKAVxBcgI",
+     "title": "내 언니의 단짝에게 반해버렸다 - 1A화",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-qqcH-1Rk-ow",
+     "title": "아레나 제로 1화",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-O24sXs7pUko",
+     "title": "[1화] 천군: 타임슬립 1636 병자호란에 떨어진 대한민국 군대",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-eVCiHbcLBe4",
+     "title": "RUS-T",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-2mXVkiF8sXk",
+     "title": "蝕光 (Eclipsed Light)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-Pses7OwlkA0",
+     "title": "마하바라타: 영원한 전쟁 1화",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt--bfbJ2AIXpk",
+     "title": "얼어붙은 공작의 신부",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-UEzaIH9jxYw",
+     "title": "낭만에 대하여 (스페인어 라틴 발라드)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-GHEjrSnpIyA",
+     "title": "허주: 개문의 장 EP.1",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-kYlYM5rjKBQ",
+     "title": "일곱 번째 얼굴",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-3HcILu2Nkd8",
+     "title": "화랑: 제로 1화",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-XRU-XiwlI8k",
+     "title": "페더웨이트 12화 - 미스플레이스드",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-oRdYzIAa11c",
+     "title": "귀환(歸還): 고려의 바다에 나타난 현대의 요새",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-_eDsJCAA7yA",
+     "title": "AI 로판 실사화: 가문의 저주에 걸린 후회남주 X 헌신여주 1화",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-odUiyPKVOOQ",
+     "title": "마르코 폴로",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-VZZ1V-Pq29k",
+     "title": "풀 로드",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-W5jaC-WbK8g",
+     "title": "메리와 니키: 와플과 파도",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-sE9hcg2U6ms",
+     "title": "라짜: 완벽을 향한 추구",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-yqxaKfMss4Q",
+     "title": "아트리스트 2026 빅게임 광고",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-HO-7AXBLZHo",
+     "title": "마지막 배달",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-jaKhr4yJYCQ",
+     "title": "라스콜니코프, 무너진 순간 — AI 시네마틱 단편",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-ZuKiEgHoo3Q",
+     "title": "인도로 이사 간 미래형 로봇",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-nTlJ5GIwsrA",
+     "title": "아크리 트라이얼 (마지막 시험)",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-YY-M5bxTY28",
+     "title": "버려진 동반자",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-gwJfa9-AMx4",
+     "title": "비욘드 더 월드: 북 오브 라이프",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-Uv41LDkxnFM",
+     "title": "페더웨이트 11화 파트 2 — 디플렉트",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-VKwK-vwmKL8",
+     "title": "여진 토멸",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-1zXnz9O3xgo",
+     "title": "플로드시티 — 아무도 벗어날 수 없는 섬",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-xS-b1MyBrbA",
+     "title": "[5화] 천군: 타임슬립 1636 병자호란에 떨어진 대한민국 군대",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-U314WN3qZq4",
+     "title": "테이크 온 미 – 짝사랑을 향한 초현실 여정",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-_kh0b1kmBlM",
+     "title": "스팀펑크 어드벤처 – 클락워크 하트",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-ZEEG0GAh45M",
+     "title": "어느 특별한 마을 – 잡화점의 아름다운 하루",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-KRcIDCA71DI",
+     "title": "기체 MACHINE",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-8dxm9KaKqvc",
+     "title": "새해의 키스",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-5hL7uPsISY0",
+     "title": "조선힙합 '그냥 해'",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-FouReIwxnkU",
+     "title": "브레이크 원 EP.01 LOSER",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-lqQrhXZAe7k",
+     "title": "카밀라를 미치게 하는 여자들",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-9Yf1txKJPTw",
+     "title": "코드 오브 레지스턴스 2부: 넥서스 코어",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-3YTVna08wbM",
+     "title": "오프 더 북스",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-hFIGoeHNiHA",
+     "title": "어떤 인연은, 시대를 갈아입는다 | 〈침향〉 현대물 AU 외전 EP.1",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-LmPl2JJiM3Y",
+     "title": "침향 | 공식 예고편",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-d-pAOivbCmU",
+     "title": "베탈 S1E4",
+     "platform": "youtube"
+    }
+   ],
+   "removed": [],
+   "edited": [
+    {
+     "id": "instagram-DY4omlOK7L5",
+     "title": "마지막 밤",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DY3GJA9olQp",
+     "title": "수달의 잃어버린 돌",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db-xQP2STCS",
+     "title": "오네이릭",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7653554342808669460",
+     "title": "시간을 휘다",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccUaRNvJkh",
+     "title": "염력소녀: 점심시간",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdOU3IRhpje",
+     "title": "우리가 아직 한복을 ‘안’ 입는다면?!",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdUAPK0sj-h",
+     "title": "첫 출근 날",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691106880944377108",
+     "title": "그해 겨울, 맨해튼 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7678622640998780182",
+     "title": "라푼젤 2 시즌 2 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdAnFhYz4tq",
+     "title": "더 발레리나 — 파트 1",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db5myuKsvjc",
+     "title": "TANYA — 인류가 만든 세계",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdI1YqRilgt",
+     "title": "메이 — 케이블카",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DcOPqmctTaZ",
+     "title": "[메인 스토리] EP. 01 — 블레어와의 첫 만남",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdzhTeEo6bG",
+     "title": "하늘이 보낸 건 수호자가 아니었다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd4UtUCyJQT",
+     "title": "5화 — 전학생",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdREY5sE_oF",
+     "title": "수호도사: 세계유산을 지켜라",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3fhGJy0B0",
+     "title": "AEGIS: 세계의 영원한 수호자들 – 이순신의 등장",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dc4F1z7itkK",
+     "title": "더 캘빙",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7685701599913725206",
+     "title": "어색한 만남, 완벽한 거짓말",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7679528440130718996",
+     "title": "강아지가 제일 좋아하는 사람",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691795642024283412",
+     "title": "그해 겨울 맨해튼 2화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7686966376019397908",
+     "title": "EP.49 이제 갈 수 있어요",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7676919493276273928",
+     "title": "염력소녀",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iS8xIeYf",
+     "title": "미래는 오지 않았다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iJqPyvDd",
+     "title": "AI 요원 남자현의 긴급 호출",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DbMQYroyJrX",
+     "title": "시그널 힐",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccxGoohKcL",
+     "title": "청룡 대 니드회그",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    }
+   ]
+  },
+  {
+   "at": "2026-10-06T00:01:26.743Z",
+   "added": [
+    {
+     "id": "vimeo-1227469098",
+     "title": "마지막 1초",
+     "platform": "vimeo"
+    }
+   ],
+   "removed": [],
+   "edited": [
+    {
+     "id": "instagram-DY4omlOK7L5",
+     "title": "마지막 밤",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DY3GJA9olQp",
+     "title": "수달의 잃어버린 돌",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db-xQP2STCS",
+     "title": "오네이릭",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7653554342808669460",
+     "title": "시간을 휘다",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccUaRNvJkh",
+     "title": "염력소녀: 점심시간",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdOU3IRhpje",
+     "title": "우리가 아직 한복을 ‘안’ 입는다면?!",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdUAPK0sj-h",
+     "title": "첫 출근 날",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691106880944377108",
+     "title": "그해 겨울, 맨해튼 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7678622640998780182",
+     "title": "라푼젤 2 시즌 2 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdAnFhYz4tq",
+     "title": "더 발레리나 — 파트 1",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db5myuKsvjc",
+     "title": "TANYA — 인류가 만든 세계",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdI1YqRilgt",
+     "title": "메이 — 케이블카",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DcOPqmctTaZ",
+     "title": "[메인 스토리] EP. 01 — 블레어와의 첫 만남",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdzhTeEo6bG",
+     "title": "하늘이 보낸 건 수호자가 아니었다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd4UtUCyJQT",
+     "title": "5화 — 전학생",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdREY5sE_oF",
+     "title": "수호도사: 세계유산을 지켜라",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3fhGJy0B0",
+     "title": "AEGIS: 세계의 영원한 수호자들 – 이순신의 등장",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dc4F1z7itkK",
+     "title": "더 캘빙",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7685701599913725206",
+     "title": "어색한 만남, 완벽한 거짓말",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7679528440130718996",
+     "title": "강아지가 제일 좋아하는 사람",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691795642024283412",
+     "title": "그해 겨울 맨해튼 2화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7686966376019397908",
+     "title": "EP.49 이제 갈 수 있어요",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7676919493276273928",
+     "title": "염력소녀",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iS8xIeYf",
+     "title": "미래는 오지 않았다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iJqPyvDd",
+     "title": "AI 요원 남자현의 긴급 호출",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DbMQYroyJrX",
+     "title": "시그널 힐",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccxGoohKcL",
+     "title": "청룡 대 니드회그",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    }
+   ]
+  },
+  {
+   "at": "2026-10-05T09:01:30+09:00",
+   "added": [
+    {
+     "id": "yt-nVuDotmHpps",
+     "title": "스타 리볼트 - 에피소드 1",
+     "platform": "youtube"
+    }
+   ],
+   "removed": [],
+   "edited": [
+    {
+     "id": "instagram-DY4omlOK7L5",
+     "title": "마지막 밤",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DY3GJA9olQp",
+     "title": "수달의 잃어버린 돌",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db-xQP2STCS",
+     "title": "오네이릭",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7653554342808669460",
+     "title": "시간을 휘다",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccUaRNvJkh",
+     "title": "염력소녀: 점심시간",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdOU3IRhpje",
+     "title": "우리가 아직 한복을 ‘안’ 입는다면?!",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdUAPK0sj-h",
+     "title": "첫 출근 날",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691106880944377108",
+     "title": "그해 겨울, 맨해튼 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7678622640998780182",
+     "title": "라푼젤 2 시즌 2 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdAnFhYz4tq",
+     "title": "더 발레리나 — 파트 1",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db5myuKsvjc",
+     "title": "TANYA — 인류가 만든 세계",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdI1YqRilgt",
+     "title": "메이 — 케이블카",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DcOPqmctTaZ",
+     "title": "[메인 스토리] EP. 01 — 블레어와의 첫 만남",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdzhTeEo6bG",
+     "title": "하늘이 보낸 건 수호자가 아니었다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd4UtUCyJQT",
+     "title": "5화 — 전학생",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdREY5sE_oF",
+     "title": "수호도사: 세계유산을 지켜라",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3fhGJy0B0",
+     "title": "AEGIS: 세계의 영원한 수호자들 – 이순신의 등장",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dc4F1z7itkK",
+     "title": "더 캘빙",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7685701599913725206",
+     "title": "어색한 만남, 완벽한 거짓말",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7679528440130718996",
+     "title": "강아지가 제일 좋아하는 사람",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691795642024283412",
+     "title": "그해 겨울 맨해튼 2화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7686966376019397908",
+     "title": "EP.49 이제 갈 수 있어요",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7676919493276273928",
+     "title": "염력소녀",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iS8xIeYf",
+     "title": "미래는 오지 않았다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iJqPyvDd",
+     "title": "AI 요원 남자현의 긴급 호출",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DbMQYroyJrX",
+     "title": "시그널 힐",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccxGoohKcL",
+     "title": "청룡 대 니드회그",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    }
+   ]
+  },
+  {
+   "at": "2026-10-04T09:01:37+09:00",
+   "added": [
+    {
+     "id": "yt-ptR3ef33WoQ",
+     "title": "나긴 시즌 1",
+     "platform": "youtube"
+    },
+    {
+     "id": "yt-ChvIrwPBdS8",
+     "title": "ARK-7 2화",
+     "platform": "youtube"
+    }
+   ],
+   "removed": [],
+   "edited": [
+    {
+     "id": "instagram-DY4omlOK7L5",
+     "title": "마지막 밤",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DY3GJA9olQp",
+     "title": "수달의 잃어버린 돌",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db-xQP2STCS",
+     "title": "오네이릭",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7653554342808669460",
+     "title": "시간을 휘다",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "bilibili-BV1KybK6BEsB",
+     "title": "ADVENT: 강림",
+     "platform": "bilibili",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccUaRNvJkh",
+     "title": "염력소녀: 점심시간",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdOU3IRhpje",
+     "title": "우리가 아직 한복을 ‘안’ 입는다면?!",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdUAPK0sj-h",
+     "title": "첫 출근 날",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691106880944377108",
+     "title": "그해 겨울, 맨해튼 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7678622640998780182",
+     "title": "라푼젤 2 시즌 2 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdAnFhYz4tq",
+     "title": "더 발레리나 — 파트 1",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db5myuKsvjc",
+     "title": "TANYA — 인류가 만든 세계",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdI1YqRilgt",
+     "title": "메이 — 케이블카",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DcOPqmctTaZ",
+     "title": "[메인 스토리] EP. 01 — 블레어와의 첫 만남",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdzhTeEo6bG",
+     "title": "하늘이 보낸 건 수호자가 아니었다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd4UtUCyJQT",
+     "title": "5화 — 전학생",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdREY5sE_oF",
+     "title": "수호도사: 세계유산을 지켜라",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3fhGJy0B0",
+     "title": "AEGIS: 세계의 영원한 수호자들 – 이순신의 등장",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dc4F1z7itkK",
+     "title": "더 캘빙",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7685701599913725206",
+     "title": "어색한 만남, 완벽한 거짓말",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7679528440130718996",
+     "title": "강아지가 제일 좋아하는 사람",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691795642024283412",
+     "title": "그해 겨울 맨해튼 2화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7686966376019397908",
+     "title": "EP.49 이제 갈 수 있어요",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7676919493276273928",
+     "title": "염력소녀",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iS8xIeYf",
+     "title": "미래는 오지 않았다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iJqPyvDd",
+     "title": "AI 요원 남자현의 긴급 호출",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DbMQYroyJrX",
+     "title": "시그널 힐",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccxGoohKcL",
+     "title": "청룡 대 니드회그",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    }
+   ]
+  },
+  {
+   "at": "2026-10-03T09:01:30+09:00",
+   "added": [
+    {
+     "id": "yt-DGkAdRGkBjk",
+     "title": "TUL8TE - 말 없이 (Men Gheir Kalam)",
+     "platform": "youtube"
+    }
+   ],
+   "removed": [
+    {
+     "id": "vimeo-1227469098",
+     "title": "마지막 1초",
+     "platform": "vimeo"
+    }
+   ],
+   "edited": [
+    {
+     "id": "instagram-DY4omlOK7L5",
+     "title": "마지막 밤",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DY3GJA9olQp",
+     "title": "수달의 잃어버린 돌",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db-xQP2STCS",
+     "title": "오네이릭",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7653554342808669460",
+     "title": "시간을 휘다",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccUaRNvJkh",
+     "title": "염력소녀: 점심시간",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdOU3IRhpje",
+     "title": "우리가 아직 한복을 ‘안’ 입는다면?!",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdUAPK0sj-h",
+     "title": "첫 출근 날",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691106880944377108",
+     "title": "그해 겨울, 맨해튼 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7678622640998780182",
+     "title": "라푼젤 2 시즌 2 1화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdAnFhYz4tq",
+     "title": "더 발레리나 — 파트 1",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Db5myuKsvjc",
+     "title": "TANYA — 인류가 만든 세계",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdI1YqRilgt",
+     "title": "메이 — 케이블카",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DcOPqmctTaZ",
+     "title": "[메인 스토리] EP. 01 — 블레어와의 첫 만남",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdzhTeEo6bG",
+     "title": "하늘이 보낸 건 수호자가 아니었다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd4UtUCyJQT",
+     "title": "5화 — 전학생",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DdREY5sE_oF",
+     "title": "수호도사: 세계유산을 지켜라",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3fhGJy0B0",
+     "title": "AEGIS: 세계의 영원한 수호자들 – 이순신의 등장",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dc4F1z7itkK",
+     "title": "더 캘빙",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7685701599913725206",
+     "title": "어색한 만남, 완벽한 거짓말",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7679528440130718996",
+     "title": "강아지가 제일 좋아하는 사람",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7691795642024283412",
+     "title": "그해 겨울 맨해튼 2화",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7686966376019397908",
+     "title": "EP.49 이제 갈 수 있어요",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "tiktok-7676919493276273928",
+     "title": "염력소녀",
+     "platform": "tiktok",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iS8xIeYf",
+     "title": "미래는 오지 않았다",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-Dd3iJqPyvDd",
+     "title": "AI 요원 남자현의 긴급 호출",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DbMQYroyJrX",
+     "title": "시그널 힐",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    },
+    {
+     "id": "instagram-DccxGoohKcL",
+     "title": "청룡 대 니드회그",
+     "platform": "instagram",
+     "fields": [
+      "thumbnailUrl"
+     ]
+    }
+   ]
+  }
+ ]
+}
