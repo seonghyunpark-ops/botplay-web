@@ -1,0 +1,54 @@
+<!doctype html>
+<!-- iOS 앱 전용 YouTube 중계 페이지.
+     iOS 앱은 capacitor://localhost 에서 실행돼 YouTube가 퍼가기 출처(Referer/origin)를 인정하지 않고 오류 153을 냅니다.
+     그래서 공개 https 주소(GitHub Pages)의 이 페이지가 공식 IFrame 플레이어를 띄우고, 앱과는 postMessage로만 대화합니다.
+     플레이어 위에 아무것도 덮지 않으며(YouTube 정책), 명령은 이 페이지를 띄운 부모 창에서 온 것만 받습니다. -->
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>AntPlay player</title>
+<style>html,body,#player{margin:0;width:100%;height:100%;background:#000;overflow:hidden}</style>
+</head><body><div id="player"></div>
+<script>
+(function () {
+  var q = new URLSearchParams(location.hash.slice(1))
+  var videoId = q.get('v') || ''
+  var vars = {}
+  try { vars = JSON.parse(q.get('vars') || '{}') } catch (e) { vars = {} }
+  var player = null, ready = false
+  var ALLOWED = ['mute', 'unMute', 'pauseVideo', 'playVideo', 'seekTo', 'setPlaybackRate', 'setVolume', 'setOption']
+  function send(type, data) { if (window.parent !== window) window.parent.postMessage({ __antplayYT: 1, type: type, data: data }, '*') }
+  function snapshot() {
+    if (!ready) return
+    var opts = []
+    try { opts = player.getOptions('captions') || [] } catch (e) { opts = [] }
+    send('state', {
+      time: player.getCurrentTime(), state: player.getPlayerState(), rate: player.getPlaybackRate(),
+      rates: player.getAvailablePlaybackRates(), muted: player.isMuted(), volume: player.getVolume(), captionOptions: opts,
+    })
+  }
+  window.onYouTubeIframeAPIReady = function () {
+    var pv = Object.assign({}, vars, { playsinline: 1, origin: location.origin })
+    player = new YT.Player('player', {
+      videoId: videoId, width: '100%', height: '100%', playerVars: pv,
+      events: {
+        onReady: function () { ready = true; snapshot(); send('ready') },
+        onError: function (e) { send('error', e.data) },
+        onStateChange: function () { snapshot(); send('stateChange') },
+        onPlaybackRateChange: function (e) { snapshot(); send('rate', e.data) },
+        onApiChange: function () { snapshot(); send('apiChange') },
+      },
+    })
+    setInterval(snapshot, 1000)
+  }
+  window.addEventListener('message', function (e) {
+    var m = e.data
+    if (e.source !== window.parent || !m || !m.__antplayCmd || !player || !ready) return
+    if (ALLOWED.indexOf(m.fn) < 0 || typeof player[m.fn] !== 'function') return
+    player[m.fn].apply(player, Array.isArray(m.args) ? m.args : [])
+    setTimeout(snapshot, 150)
+  })
+  if (!videoId) send('error', 2)
+})()
+</script>
+<script src="https://www.youtube.com/iframe_api"></script>
+</body></html>
