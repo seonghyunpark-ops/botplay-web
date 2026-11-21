@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="caleb_momma 대체 커버">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="hsl(286,42%,25%)"/><stop offset="1" stop-color="#14131e"/></linearGradient></defs>
+<rect width="640" height="360" rx="20" fill="url(#bg)"/>
+<circle cx="567" cy="60" r="140" fill="#a885df" opacity=".08"/><circle cx="590" cy="338" r="180" fill="#66d5dc" opacity=".07"/>
+<rect x="427" y="92" width="125" height="170" rx="18" fill="none" stroke="#cab3ec" stroke-width="2" opacity=".2" transform="rotate(15 490 180)"/>
+<text x="36" y="57" fill="#cbb4ea" font-family="sans-serif" font-size="19" letter-spacing="2">TikTok · AI BL</text>
+<text x="36" y="184" fill="#fff" font-family="sans-serif" font-size="34" font-weight="700" textLength="220" lengthAdjust="spacingAndGlyphs">caleb_momma</text>
+<path d="M39 222h70" stroke="#bc92ed" stroke-width="4" stroke-linecap="round"/>
+<text x="36" y="312" fill="#c3bbce" font-family="sans-serif" font-size="18">대체 커버 · 영상 표지 미제공</text></svg>
