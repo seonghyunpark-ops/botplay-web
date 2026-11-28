@@ -1,0 +1,5 @@
+{
+  "_comment": "AntPlay 광고 설정. 웹·앱이 실행 때 https://botplay-dfebc.web.app/ads-config.json 을 받아 쓰므로 앱 업데이트 없이 켜고 끌 수 있음. 지금은 AntPlay AdMob 앱·광고 단위와 AdSense 사이트 승인이 없어 모두 꺼 둠. 채우는 법: docs/ADVERTISING.md",
+  "web": {"enabled": false, "approved": false, "cmpReady": false, "client": "ca-pub-8231952947410935", "slot": ""},
+  "native": {"enabled": false, "test": true, "android": "", "ios": ""}
+}
